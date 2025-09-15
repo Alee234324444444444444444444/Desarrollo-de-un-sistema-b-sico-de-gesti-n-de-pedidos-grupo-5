@@ -22,7 +22,7 @@ Este proyecto es un sistema de gestión de inventario y pedidos desarrollado en 
 ---
 
 ## Tecnologías Utilizadas
-- **Python 3**: Lenguaje de programación principal.
+- **Python **: Lenguaje de programación principal.
 - **Listas y diccionarios**: Para almacenar información de inventario y pedidos.
 - **Funciones y estructuras de control**: Para manejar la lógica del sistema y la interacción con el usuario.
 - **Entradas de usuario (`input`)**: Para interactuar con el sistema desde la consola.
